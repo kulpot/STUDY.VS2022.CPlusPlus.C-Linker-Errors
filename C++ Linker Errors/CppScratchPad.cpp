@@ -8,6 +8,15 @@ using std::endl;
 // ------------------------- C++ Linker Errors ------------------------------------------------------
 //ref link:https://www.youtube.com/watch?v=xNOLRakCOyw&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=3
 
+void foo()
+{
+
+}
+
+void main()
+{
+	foo();
+}
 
 
 
