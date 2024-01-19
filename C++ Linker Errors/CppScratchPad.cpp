@@ -8,7 +8,9 @@ using std::endl;
 // ------------------------- C++ Linker Errors ------------------------------------------------------
 //ref link:https://www.youtube.com/watch?v=xNOLRakCOyw&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=3
 
-void foo()
+// Linker Errors - if theres is a multiple define in the .obj file 
+
+void foo()	// 1st define linker error - 2nd in AnotherCppFile.cpp
 {
 
 }
@@ -115,11 +117,11 @@ void main()
 
 // Hero.h and Monster.h are both identical
 
-void main()
-{
-	Hero hero;
-	Monster monster;
-}
+//void main()
+//{
+//	Hero hero;
+//	Monster monster;
+//}
 
 
 

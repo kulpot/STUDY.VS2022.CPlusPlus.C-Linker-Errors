@@ -25,7 +25,7 @@
 //
 //}
 
-void fooer()
+void foo()	// 2nd define linker error
 {
 
 }
