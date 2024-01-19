@@ -1,11 +1,41 @@
 // 3 Steps Preprocessor process: 1. Preprocessor, 2. Compiler, 3. Linker
 // recursively copy/paste all #include
-#include "Hero.h"
-#include "Monster.h"
+
 #include <iostream>
 using std::cout;
 using std::endl;
 
+// ------------------------- C++ Linker Errors ------------------------------------------------------
+//ref link:https://www.youtube.com/watch?v=xNOLRakCOyw&list=PLRwVmtr-pp05Bl0j6lwXd8tU754nUEB5P&index=3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//#include "Hero.h"
+//#include "Monster.h"
 
 //---------------------------------------COMPILE SEQUENCE FOR MULTIPLE HEADERFILES--------
 ////-----#include "Hero.h"-----START
